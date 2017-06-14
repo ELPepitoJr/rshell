@@ -1,1 +1,0 @@
-README.md a.text a.txt b.text bin c.txt makefile src tests text.txt
